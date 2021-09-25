@@ -1,0 +1,39 @@
+.content_home{
+    background-image: url("../image/vickings.jpg");     
+    background-size:300% 300% !important;   
+    background-size: cover;    
+   opacity: .8;
+    height:100vh;
+    background-position: 100% 50%;
+    animation:gradient 20s infinite alternate ease-in-out;
+    overflow: hidden;
+    
+    
+}
+@keyframes gradient{
+    0%{
+        background-position:10%;
+      
+    }
+    50%{
+        background-position:60%, 30%;
+       
+    }
+    100%{
+         background-position:90%;
+        
+    }
+}
+.content_home ul{
+    display:flex;
+    justify-content:space-around;
+    list-style:none;
+    width:60%;
+    color:white;
+    float:right;
+    cursor:pointer;
+}
+
+.content_home ul li{
+    font: 25px  sans-serif;    
+}
