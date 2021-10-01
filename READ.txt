@@ -1,0 +1,5 @@
+O projeto tem uma about com scroll na index, tem uma home com uma animação do quadro que desliza na 
+tela, os menus são fixos, tem um botão menu que ainda não está inplementado mas que aparece quando 
+a tela diminui sumindo o principal, Fiz uma seção de portifólio que as imagens deslizam seobre um fundo
+E fiz uma animação nas obras principais. Já está aprensetável eu estou aguardando o parecer do Micharl para
+prosseguir.

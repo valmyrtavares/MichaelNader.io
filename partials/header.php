@@ -8,11 +8,13 @@
     <title>Document</title>
 </head>
 <body>
-
+<button data-btn="mobile"></button>
     <ul>
-        <li>Home</li>
-        <li>Portifólio</li>
-        <li>Michael Nader</li>
-        <li>Fale conosco</li>
+        <li><a href="<?=$base?>">Home</a></li>
+        <li><a href="<?=$base ?>/portifolio.php">Portifólio</a></li>
+        <li><a href="<?=$base?>#me" id="self" >Michael Nader</a></li>
+        <li><a href="" >Fale Conosco</a></li>
     </ul>
+
+
 
